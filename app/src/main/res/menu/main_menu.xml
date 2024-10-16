@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_all"
+        android:title="All Users"/>
+    <!--  android:icon="@drawable/ic_all_users"  Optional icon -->
+
+    <item
+        android:id="@+id/menu_pending"
+        android:title="Pending Users"/>
+    <!-- android:icon="@drawable/ic_pending_users"  Optional icon -->
+    <item
+        android:id="@+id/menu_paid"
+        android:title="Paid Users"/>
+
+    <!-- android:icon="@drawable/ic_paid_users"  Optional icon -->
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733661822800",
+    "project_id": "ispmanagement-945a8",
+    "storage_bucket": "ispmanagement-945a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733661822800:android:00e81abcb34f20cf0d7655",
+        "android_client_info": {
+          "package_name": "com.urooj.internetpackagemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8zz0F-D70CxnyQ-2eeH2Kh9uANOb_b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733661822800:android:0b68aa103fcca4b80d7655",
+        "android_client_info": {
+          "package_name": "com.urooj.internetprovidermanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8zz0F-D70CxnyQ-2eeH2Kh9uANOb_b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
